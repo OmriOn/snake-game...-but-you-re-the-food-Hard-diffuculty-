@@ -27,9 +27,9 @@ food = [5, 10]
 h, w = 10, 15 # height, width
 score = 0
 # initial speed
-speed = 3
+speed = 13
 # max speed
-MAX_SPEED = 6
+MAX_SPEED = 13
 
 # N1 and N2 represents the snake's movement frequency.
 # The snake will only move N1 out of N2 turns.
